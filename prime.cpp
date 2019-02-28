@@ -67,3 +67,4 @@ int main()
 
     //cout<<*nums<<endl;
 }
+
